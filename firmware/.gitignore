@@ -1,0 +1,16 @@
+# STM32CubeIDE build output and per-machine files
+stm32/AdaptiveSonar/Debug/
+stm32/AdaptiveSonar/Release/
+stm32/AdaptiveSonar/.settings/
+*.launch
+*.elf
+*.map
+*.list
+*.o
+*.d
+*.su
+# PC simulator output
+host_sim/build/
+host_sim/out/
+host_sim/figures/
+__pycache__/

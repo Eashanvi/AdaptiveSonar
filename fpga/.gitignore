@@ -1,0 +1,20 @@
+# Quartus project files are recreated by setup.tcl, and its build output is large
+de1soc_makara/db/
+de1soc_makara/incremental_db/
+de1soc_makara/output_files/
+de1soc_makara/*.qpf
+de1soc_makara/*.qsf
+de1soc_makara/*.qws
+de1soc_makara/*.rpt
+de1soc_makara/*.summary
+de1soc_makara/*.smsg
+de1soc_makara/*.done
+de1soc_makara/*.sof
+de1soc_makara/*.pof
+# simulation output
+simulation/build/
+*.out
+*.vcd
+dac_mid.txt
+dds_out.txt
+__pycache__/
